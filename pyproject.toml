@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "base-learn-template"
+name = "learn-kotlin"
 version = "0.0.0"
 description = "base learn template"
 authors = ["Luis Mayta <luis@hadenlabs.com>"]
 license = "LGPL-3.0"
 readme = "README.md"
-repository = "https://github.com/luismayta/base-learn-template"
+repository = "https://github.com/luismayta/learn-kotlin"
 
 [tool.poetry.dependencies]
 python = "^3.9,<3.12"

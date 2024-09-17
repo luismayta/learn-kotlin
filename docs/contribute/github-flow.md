@@ -1,14 +1,14 @@
 <!-- Space: Projects -->
-<!-- Parent: BaseTemplate -->
-<!-- Title: Contributing GithubFlow BaseTemplate -->
-<!-- Label: BaseTemplate -->
+<!-- Parent: LearnKotlin -->
+<!-- Title: Contributing GithubFlow LearnKotlin -->
+<!-- Label: LearnKotlin -->
 <!-- Label: Project -->
 <!-- Label: Contributing -->
 <!-- Label: GithubFlow -->
 <!-- Include: ./../disclaimer.md -->
 <!-- Include: ac:toc -->
 
-To contribute to base-learn-template project on [GitHub](https://github.com/luismayta/base-learn-template), We use [GitHub Flow](https://githubflow.github.io/), it means that you should branch from the main repository and contribute back by making [pull request](https://github.com/luismayta/base-learn-template/pulls).
+To contribute to learn-kotlin project on [GitHub](https://github.com/luismayta/learn-kotlin), We use [GitHub Flow](https://githubflow.github.io/), it means that you should branch from the main repository and contribute back by making [pull request](https://github.com/luismayta/learn-kotlin/pulls).
 
 GitHub Flow is very lightweight (especially compared to GitFlow). This workflow uses only two kinds of branches:
 
@@ -23,7 +23,7 @@ For more information see [GitHub Flow](https://githubflow.github.io/)
 
 ## Getting started
 
-To follow the instructions in this guide and start contributing to base-learn-template project on GitHub:
+To follow the instructions in this guide and start contributing to learn-kotlin project on GitHub:
 
 1. **Fork** the repo on GitHub
 2. **Clone** the project to your own machine
@@ -31,10 +31,10 @@ To follow the instructions in this guide and start contributing to base-learn-te
 To synchronize with the main repository, add it to the remotes:
 
 ```bash
-git remote add upstream  https://github.com/luismayta/base-learn-template.git
+git remote add upstream  https://github.com/luismayta/learn-kotlin.git
 ```
 
-Now your **upstream** points to **luismayta/base-learn-template**.
+Now your **upstream** points to **luismayta/learn-kotlin**.
 
 ## Branches
 
@@ -58,7 +58,7 @@ To resolve a conflict, run the following commands.
 
 ```bash
 # checkout a branch you open PR from
-git fetch upstream # assuming upstream is luismayta/base-learn-template
+git fetch upstream # assuming upstream is luismayta/learn-kotlin
 git merge upstream/merge_branch # Where merge_branch is a branch you open merge request against.
 # resolve merge requests
 git add changed_files
@@ -70,7 +70,7 @@ Github will automatically update your pull request.
 
 ### Testing
 
-All merge requests are automatically tested using [Github Actions](https://github.com/luismayta/base-learn-template/actions). In case some tests fail, fix the issues or describe why the fix cannot be done.
+All merge requests are automatically tested using [Github Actions](https://github.com/luismayta/learn-kotlin/actions). In case some tests fail, fix the issues or describe why the fix cannot be done.
 
 ### Review
 

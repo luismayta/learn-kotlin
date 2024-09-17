@@ -1,4 +1,4 @@
-<!-- Space: BaseLearnTemplate -->
+<!-- Space: LearnKotlin -->
 <!-- Parent: Project -->
 <!-- Title: Roadmap -->
 <!-- Label: Roadmap -->
@@ -29,7 +29,7 @@
 
 The Roadmap is a list of all the things we're working on for the year.
 
-You can see the corresponding projects on [base-learn-template](https://github.com/luismayta/base-learn-template)
+You can see the corresponding projects on [learn-kotlin](https://github.com/luismayta/learn-kotlin)
 
 ## Legend
 

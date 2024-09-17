@@ -1,7 +1,7 @@
-<!-- Space: BaseLearnTemplate -->
+<!-- Space: LearnKotlin -->
 <!-- Parent: Project -->
 <!-- Title: Releasing -->
-<!-- Label: BaseLearnTemplate -->
+<!-- Label: LearnKotlin -->
 <!-- Label: Project -->
 <!-- Label: Releasing -->
 <!-- Include: disclaimer.md -->
@@ -11,7 +11,7 @@
 
 ## Bump a new version
 
-Make a new version of base-learn-template in the following steps:
+Make a new version of learn-kotlin in the following steps:
 
 ### Generate version major
 

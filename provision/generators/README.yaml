@@ -5,7 +5,7 @@
 #
 
 # Name of this project
-name: base-learn-template
+name: learn-kotlin
 
 email:
   support: support@hadenlabs.com
@@ -17,22 +17,22 @@ email:
 license: "LGPL-3.0"
 
 # Canonical GitHub repo
-github_repo: luismayta/base-learn-template
+github_repo: luismayta/learn-kotlin
 
 # Badges to display
 badges:
   - name: Latest Release
-    image: https://img.shields.io/github/release/luismayta/base-learn-template
-    url: https://github.com/luismayta/base-learn-template/releases
+    image: https://img.shields.io/github/release/luismayta/learn-kotlin
+    url: https://github.com/luismayta/learn-kotlin/releases
   - name: Lint
-    image: https://img.shields.io/github/workflow/status/luismayta/base-learn-template/lint-code
-    url: https://github.com/luismayta/base-learn-template/actions?workflow=lint-code
+    image: https://img.shields.io/github/workflow/status/luismayta/learn-kotlin/lint-code
+    url: https://github.com/luismayta/learn-kotlin/actions?workflow=lint-code
   - name: CI
-    image: https://img.shields.io/github/workflow/status/luismayta/base-learn-template/ci
-    url: https://github.com/luismayta/base-learn-template/actions?workflow=ci
+    image: https://img.shields.io/github/workflow/status/luismayta/learn-kotlin/ci
+    url: https://github.com/luismayta/learn-kotlin/actions?workflow=ci
   - name: Test
-    image: https://img.shields.io/github/workflow/status/luismayta/base-learn-template/test
-    url: https://github.com/luismayta/base-learn-template/actions?workflow=test
+    image: https://img.shields.io/github/workflow/status/luismayta/learn-kotlin/test
+    url: https://github.com/luismayta/learn-kotlin/actions?workflow=test
   - name: pre-commit
     image: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
     url: https://github.com/pre-commit/pre-commit
@@ -54,7 +54,7 @@ requirements: |-
 # Short description of this project
 description: |-
 
-  base-learn-template for project
+  learn-kotlin for project
 
 usages:
   - docs/usage.md

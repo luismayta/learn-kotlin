@@ -35,7 +35,7 @@ dotenv:
   - .env
 
 vars:
-  PROJECT_NAME: base-learn-template
+  PROJECT_NAME: learn-kotlin
   ORGANIZATION: luismayta
   DOCKER_PLATFORM: linux/amd64
   REVIEWERS: luismayta
